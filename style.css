@@ -86,12 +86,6 @@ a {
   background-color: white;
   z-index: 1;
 }
-.snsbox:nth-child(7) {
-  grid-column: 3/4;
-  grid-row: 19/20;
-  width: 1000px;
-  border: none;
-}
 .float-wrap {
   overflow: visible;
 }
@@ -110,9 +104,9 @@ section {
 .sns {
   width: 30px;
   height: 30px;
-}
-.sns {
   float: right;
   position: relative;
+  left: 1150px;
+  top: 650px;
   margin-right: 15px;
 }
