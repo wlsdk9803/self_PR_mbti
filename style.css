@@ -75,7 +75,12 @@ a {
   grid-row: 12/14;
   z-index: 1;
 }
-.textbox:nth-child(6) {
+.balloon:nth-child(6) {
+  grid-column: 2/3;
+  grid-row: 14/16;
+  z-index: 1;
+}
+.textbox:nth-child(7) {
   grid-column: 3/10;
   grid-row: 3/18;
   width: 1000px;
